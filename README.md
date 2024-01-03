@@ -4,4 +4,4 @@
 - 🌱 Estudando Git e Unity
 - 🤔 Pronomes: Ele/Dele
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDanReliefanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  (https://github-readme-stats.vercel.app/apiDanReliefanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
