@@ -1,5 +1,5 @@
-### Olá! Me chamo Daniel Remédio
+### Hello World! My name is Daniel Remedio
 
-- 🔭 Terceiro período de Engenharia da Computação na FHO
-- 🌱 Estudando Git e Unity
-- 🤔 Pronomes: Ele/Dele
+- 🔭 Third period of Computer Engeneering on the FHO Foundation
+- 🌱 Studying Git, Unity and Python 
+- 🤔 Pronouns: He/Him 
