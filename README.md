@@ -1,5 +1,5 @@
 ### Hello World! My name is Daniel Remedio
 
-- 🔭 Fifth period of Computer Engeneering on the FHO Foundation
-- 🌱 Studying Git, Unity and Python 
+- 🔭 Seventh period of Computer Engeneering on the FHO Foundation
+- 🌱 Studying Git, C and Python 
 - 🤔 Pronouns: He/Him 
